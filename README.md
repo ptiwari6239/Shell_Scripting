@@ -11,6 +11,8 @@ communicate with the system
 ##  any one command
 
 	chmod u+x <script_name>
+
+
 	chmod 777 <script_name>
 
    
