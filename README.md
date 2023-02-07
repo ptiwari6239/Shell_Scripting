@@ -9,10 +9,12 @@ communicate with the system**</br>
 
 **To run any script , we first have to change the permission to execute by any one command**
 ---
-``chmod u+x <script_name>``
+```bash
+chmod u+x <script_name>``
 
 
-``chmod 777 <script_name>``
+```bash
+chmod 777 <script_name>``
 
 ---   
   
